@@ -17,6 +17,7 @@ Here is a list of core features of the solution
 - Approved leave requests are optionally sent as meeting requests to employees, so they don't miss the leave that has been approved
 - Several dashboards added to the Model Driven app for HR users to do basic leave analytics
 - Full audit trail on all leave request actions (submitted, approved, declined, recalled etc)
+- 3 custom roles defined for each persona
 
 ## How it works
 There are 2 main applications which makeup this solution. 1 - Admin Model Driven App (Leave Manager) 2 - Employee / Manager Leave App. All data resides in the Microsoft Dataverse. This includes leave requests, leave types, holidays and more.
