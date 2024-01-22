@@ -24,5 +24,10 @@ There are 2 main applications which makeup this solution. 1 - Admin Model Driven
 
 More information on how the solution works, including demo is in the attached Solution Demo PPT. Installation instructions in the instructions PPT.
 
+Demo's of solution and under the hood
+
+- [eLeave Solution Demo](https://youtu.be/hViN0m4pPVQ)
+- [Under the Hood](https://youtu.be/5tSuIb7s4dg)
+
 ## Provided "As-Is"
 This is a a starter / sample. It hasn't been well tested, and is missing some key features that I hope to add over time. It not officialy supported by myself or Microsoft. However, because the unmanaged and managed solution is provided, you should be able to support it yourself, either directly or through a certified Microsoft partner.
